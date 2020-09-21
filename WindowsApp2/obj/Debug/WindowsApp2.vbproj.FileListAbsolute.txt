@@ -1,0 +1,14 @@
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\Interop.HCOMPINPADLib.dll
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\XxLeN\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
